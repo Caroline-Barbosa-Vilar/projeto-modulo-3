@@ -1,0 +1,13 @@
+.header {
+  background-color: var(--black);
+  color: var(--white);
+  text-align: center;
+}
+.header > h1 {
+  padding-top: 5rem;
+  font-variant: small-caps;
+  font-size: 3rem;
+}
+.header > p {
+  padding-bottom: 5rem;
+}
