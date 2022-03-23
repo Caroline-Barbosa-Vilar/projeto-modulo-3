@@ -1,0 +1,20 @@
+.regular {
+  background-color: var(--white);
+  color: var(--black);
+}
+.image {
+  background-color: var(--dark-gray);
+  color: var(--white);
+}
+.image > p {
+  display: inline-block;
+  padding: .5rem;
+  background-color: var(--back);
+  text-shadow: 1px 1px 0 black;
+}
+.image#img1 {
+  background-image: url(../img/ladybug.jpg);
+}
+.image#img2 {
+  background-image: url(../img/letter.jpg);
+}
