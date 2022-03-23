@@ -13,3 +13,11 @@
   padding-bottom: 5rem;
   font-size: 1.8rem;
 }
+@media (max-width: 414px) {
+  .header > h1 {
+    font-size: 4rem;
+  }
+  .header > p {
+    font-size: 1.4rem;
+  }
+}
