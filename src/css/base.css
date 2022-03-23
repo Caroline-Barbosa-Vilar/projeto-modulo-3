@@ -3,7 +3,7 @@
   --gray: #a9a9a9;
   --dark-gray: #494848;
   --black: #000;
-  --back: rgba(0, 0, 0, 0.253);
+  --back: rgba(0, 0, 0, 0.411);
 
   --regular: 'Verdana', Geneva, Tahoma, sans-serif;
   --passion: 'Passion One', cursive;
@@ -34,17 +34,4 @@ section {
 }
 section > p {
   padding-bottom: 2rem;
-}
-.regular {
-  background-color: var(--white);
-  color: var(--black);
-}
-.image {
-  background-color: var(--dark-gray);
-  color: var(--white);
-}
-.image > p {
-  display: inline-block;
-  padding: .5rem;
-  background-color: var(--back);
 }
