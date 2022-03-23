@@ -29,6 +29,7 @@ a:hover {
 section {
   padding: 10vh 0 10vh 3rem;
   line-height: 2rem;
+  font-family: var(--sriracha);
 }
 .regular {
   background-color: var(--white);
