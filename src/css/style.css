@@ -5,6 +5,10 @@
 .image {
   background-color: var(--dark-gray);
   color: var(--white);
+  background-size: cover;
+  background-position: right center;
+  box-shadow: inset 6px 6px 13px 0 rgba(0, 0, 0, 0.61);
+  background-attachment: fixed;
 }
 .image > p {
   display: inline-block;
