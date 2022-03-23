@@ -13,10 +13,10 @@
 html {
   font-size:62.5%;
   box-sizing: border-box;
-  font-family: ;
 }
 html, body {
   min-height: 100vh;
+  font-family: var(--regular);
 }
 a {
   color: var(--white);
