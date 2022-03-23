@@ -22,3 +22,12 @@
 .image#img2 {
   background-image: url(../img/letter.jpg);
 }
+@media (max-width: 414px) {
+  .image#img1 {
+    background-image: url(../img/ladybug-mobile.jpg);
+    background-position: center center;
+  }
+  .image#img2 {
+    background-image: url(../img/letter-mobile.jpg);
+  }
+}
