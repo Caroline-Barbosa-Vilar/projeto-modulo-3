@@ -5,10 +5,15 @@
   --black: #000;
   --back: rgba(0, 0, 0, 0.253);
 
+  --regular: 'Verdana', Geneva, Tahoma, sans-serif;
+  --passion: 'Passion One', cursive;
+  --sriracha: 'Sriracha', cursive;
+
 }
 html {
   font-size:62.5%;
   box-sizing: border-box;
+  font-family: ;
 }
 html, body {
   min-height: 100vh;
