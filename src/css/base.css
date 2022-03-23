@@ -1,6 +1,7 @@
 :root {
   --white: #fff;
-  --dark-gray: #a9a9a9;
+  --gray: #a9a9a9;
+  --dark-gray: #494848;
   --black: #000;
   
 
@@ -11,7 +12,6 @@ html {
 }
 html, body {
   min-height: 100%;
-  background-color: var(--dark-gray);
 }
 a {
   color: var(--white);
@@ -20,4 +20,12 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+.regular {
+  background-color: var(--white);
+  color: var(--black);
+}
+.image {
+  background-color: var(--dark-gray);
+  color: var(--white);
 }
