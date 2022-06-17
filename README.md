@@ -1,4 +1,4 @@
-<p align='center'> <img src=".src/curso-em-video.jpg" alt="Course logo"> </p>
+<p align='center'> <img src="src/curso-em-video.jpg" alt="Course logo"> </p>
 
 <h1 align='center'> Mordern Cordel </h1>
 
@@ -64,7 +64,7 @@ Desktop
 
 <div id="portuguese">
 
-<p align='center'> <img src=".src/curso-em-video.jpg" alt="Course logo"> </p>
+<p align='center'> <img src="src/curso-em-video.jpg" alt="Course logo"> </p>
 
 <h1 align='center'> Cordel Moderno </h1>
 
