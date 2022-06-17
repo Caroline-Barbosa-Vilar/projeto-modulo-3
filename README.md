@@ -1,6 +1,6 @@
 <p align='center'> <img src="src/curso-em-video.jpg" alt="Course logo"> </p>
 
-<h1 align='center'> Mordern Cordel </h1>
+<h1 align='center'> Modern Cordel </h1>
 
 <div align='center'>
 	<a href="https://github.com/Caroline-Barbosa-Vilar/projeto-modulo-3/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/projeto-modulo-3"></a>
@@ -127,4 +127,4 @@ Desktop
 <hr>
 
 
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
